@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sussa3007@gmail.com&show_icons=true&theme=radical)
 <!--
 **sussa3007/sussa3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
