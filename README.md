@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sussa3007&show_icons=true&theme=radical&hide=stars&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sussa3007&show_icons=true&theme=radical&hide=stars&include_all_commits=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sussa3007&layout=compact&theme=radical&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sussa3007/sussa3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
