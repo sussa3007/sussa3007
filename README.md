@@ -6,6 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sussa3007&layout=compact&theme=tokyonight&card_width=450px&hide_border=true)](https://github.com/sussa3007)
   
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sussa3007.github.io/)](https://sussa3007.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sussa1933@gmail.com)](mailto:sussa1933@gmail.com)
+  
 </div>
 <!--
 **sussa3007/sussa3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
