@@ -9,8 +9,9 @@
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sussa3007.github.io/)](https://sussa3007.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sussa1933@gmail.com)](mailto:sussa1933@gmail.com)
+  <br>
   
-  ### **🌱 I’m currently learning ...**
+  ### _**🌱 I’m currently learning ...**_
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <br>
