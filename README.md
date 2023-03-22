@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sussa3007&layout=compact&theme=tokyonight&card_width=450px&hide_border=true)](https://github.com/sussa3007)
   
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@sussa3007)](https://velog.io/@sussa3007)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://piquant-increase-d76.notion.site/DevLog-cef32fb66f4b4649a33ef9b7b3a8408a)](https://piquant-increase-d76.notion.site/DevLog-cef32fb66f4b4649a33ef9b7b3a8408a)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sussa1933@gmail.com)](mailto:sussa1933@gmail.com)
   <br>
   
