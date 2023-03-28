@@ -1,5 +1,3 @@
-### Hi there 👋
-### I want to be a growing backend developer 
 <div align=center>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sussa3007&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=false&hide_border=true)](https://github.com/sussa3007)
