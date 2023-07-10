@@ -18,7 +18,6 @@
   
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Flutter-A9A9F5?style=flat-square&logo=Flutter&logoColor=white"/> <br>
     <br>
   
