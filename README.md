@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sussa1933@gmail.com)](mailto:sussa1933@gmail.com)
   <br>
   
-  ### _**🌱 I’m currently learning ...**_
+  ### _**🌱 Tech Stack...**_
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-7F52FF?style=flat-square&logo=Dart&logoColor=white"/> <br>
