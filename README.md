@@ -12,13 +12,11 @@
   
   ### _**🌱 Tech Stack...**_
   
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-7F52FF?style=flat-square&logo=Dart&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br>
     <br>
   
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Flutter-A9A9F5?style=flat-square&logo=Flutter&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <br>
     <br>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
